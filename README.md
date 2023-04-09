@@ -15,7 +15,7 @@
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
-- 🌱 I’m currently learning **Exceptions** 
+- 🌱 I’m currently learning **Enums Iterators** 
  
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
  
@@ -25,6 +25,8 @@
 <a href="https://instagram.com/meryemkolbasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meryemkolbasar" height="30" width="40" /></a> 
 <a href="https://discord.gg/Meryem Kolbasar#2645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Meryem Kolbasar#2645" height="30" width="40" /></a> 
 </p> 
+ 
+ 
  
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
