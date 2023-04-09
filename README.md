@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
-<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/239ad7e946a65c9e1cbc6ed508e12269/tumblr_nwbyqyd8RJ1s9ab4to1_500.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlYjRlYzRkN2JlNjEzY2EzYjY5NzBiZjZkYmM4OTA5MDVmODExNiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
  
 
  
