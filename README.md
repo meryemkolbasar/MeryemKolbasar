@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Lambda** 
  
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
-- 💬 Languages I can speak: **English, German, Turkish**
+- ⚡ Languages I can speak: **English, German, Turkish**
  
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
