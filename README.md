@@ -16,7 +16,7 @@
  ---
  
  
-- 🌱 I’m currently learning **Lambda** 
+- 🌱 I’m currently learning **PostgreSQL** 
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
 - ⚡ Languages I can speak: **English, German, Turkish**
 
