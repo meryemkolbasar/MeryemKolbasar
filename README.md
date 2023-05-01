@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 
-<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdmZDU4MzYyZTNlMDg4MjU3ZjQ5N2M1MzRiMjc5NTFhNzg0OTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV0PbaTBNw42YO4/giphy.gif">
+<img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdmZDU4MzYyZTNlMDg4MjU3ZjQ5N2M1MzRiMjc5NTFhNzg0OTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV0PbaTBNw42YO4/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
