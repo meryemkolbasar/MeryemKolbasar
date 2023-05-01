@@ -16,7 +16,7 @@
  ---
  
  
-- 🌱 I’m currently learning **PostgreSQL** 
+- 🌱 I’m currently learning **Full Stack Java Developer** 
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
 - ⚡ Languages I can speak: **English, German, Turkish**
 
