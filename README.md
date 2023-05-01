@@ -1,14 +1,13 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://meryemkolbasar.io)
+<img align="middle" alt="Coding" width="1500"   src="https://media.giphy.com/media/Be5O4TFIab0Y9Wcq7F/giphy.gif">
 
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
-
 
 <h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 
-<img align="right" alt="Coding" width="360" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlYjRlYzRkN2JlNjEzY2EzYjY5NzBiZjZkYmM4OTA5MDVmODExNiZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif">
- 
+<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdmZDU4MzYyZTNlMDg4MjU3ZjQ5N2M1MzRiMjc5NTFhNzg0OTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV0PbaTBNw42YO4/giphy.gif">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
  <h3 align="left">💫 About Me:</h3>
