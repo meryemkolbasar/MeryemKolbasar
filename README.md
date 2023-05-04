@@ -1,6 +1,4 @@
-<img align="middle" alt="Coding" width="1500"   src="https://media.giphy.com/media/Be5O4TFIab0Y9Wcq7F/giphy.gif">
-
- ![logo]( KOPYALADIGINIZ LINK )
+![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/main/Meryem%20Kolbasar%20Banner.png)
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
