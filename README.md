@@ -1,8 +1,9 @@
 ![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/main/Meryem%20Kolbasar%20Banner.png)
-[![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
+
+[![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
 <img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdmZDU4MzYyZTNlMDg4MjU3ZjQ5N2M1MzRiMjc5NTFhNzg0OTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV0PbaTBNw42YO4/giphy.gif">
