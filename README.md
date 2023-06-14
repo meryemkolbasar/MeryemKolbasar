@@ -1,4 +1,3 @@
-.
 ![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/main/Meryem%20Kolbasar%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
