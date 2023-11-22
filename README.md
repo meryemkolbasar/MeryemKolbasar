@@ -16,7 +16,7 @@
  ---
  
  
-- 🌱 I’m currently learning **Full Stack Java Developer** 
+- 🌱 I’m currently learning **Full Stack Java Web Developer** 
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
 - ⚡ Languages I can speak: **English, German, Turkish**
 
