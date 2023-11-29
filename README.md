@@ -1,6 +1,6 @@
 ![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/3bd68a3f70a2707ae00a22a299a76f848a978e4f/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Meryem Kolbasar</h1> 
+<h1 align="center">Hi, I'm Meryem Kolbasar</h1> 
 <h3 align="center">A passionate Full-Stack Java Web Developer from Germany.</h3> 
 
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
