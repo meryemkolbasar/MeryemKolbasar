@@ -17,7 +17,7 @@
  
  
 - 📫 How to reach me **kolbasarmeryem@gmail.com** 
-- ⚡ Languages I can speak: **German, Turkish**
+- ⚡ Languages I can speak: **German, English, Turkish**
 
 
 
