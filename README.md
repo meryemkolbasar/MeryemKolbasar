@@ -16,7 +16,7 @@
  ---
  
  
-- 📫 How to reach me **kolbasarmeryem@gmail.com** 
+- 📫 How to reach me **LinkedIn: meryemkolbasar** 
 - ⚡ Languages I can speak: **German, English, Turkish**
 
 
