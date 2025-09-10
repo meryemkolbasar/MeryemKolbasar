@@ -1,4 +1,4 @@
-![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/3bd68a3f70a2707ae00a22a299a76f848a978e4f/Banner.png)
+![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/4693648683269539b6129c0703e2737e87834944/README%20Banner.png)
 
 <h1 align="center">Hi, I'm Meryem Kolbasar</h1> 
 <h3 align="center">A passionate Full-Stack Java Web Developer from Germany.</h3> 
