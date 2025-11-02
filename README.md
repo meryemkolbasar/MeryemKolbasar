@@ -6,11 +6,9 @@
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
-<img align="right" alt="Coding" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdmZDU4MzYyZTNlMDg4MjU3ZjQ5N2M1MzRiMjc5NTFhNzg0OTNkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohjV0PbaTBNw42YO4/giphy.gif">
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
  
+
  <h3 align="left"> :mag_right: About Me</h3>
  
  ---
@@ -21,14 +19,6 @@
 
 
 
-<h3 align="left">🌐 Socials</h3>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meryemkolbasar) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kolbasarmeryem) 
- 
- 
 
 <h3 align="left">💻 Languages and Tools</h3>
 
