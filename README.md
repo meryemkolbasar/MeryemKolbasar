@@ -6,9 +6,6 @@
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
- 
-
  <h3 align="left"> :mag_right: About Me</h3>
  
  ---
