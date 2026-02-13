@@ -1,4 +1,4 @@
-![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/1dc379114e6bbe31855746d8022c449a3e241284/README%20Banner.png)
+![logo](https://github.com/meryemkolbasar/MeryemKolbasar/blob/89d471360e973d10ed53627004d62cbc10fc3c95/Banner.png)
 
 [![](https://visitcount.itsvg.in/api?id=meryemkolbasar&icon=1&color=12)](https://visitcount.itsvg.in)
 
